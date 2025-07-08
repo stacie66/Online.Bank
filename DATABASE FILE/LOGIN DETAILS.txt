@@ -1,0 +1,10 @@
+
+Database Name: internetbanking
+Admin Login Details
+Email	: admin@mail.com
+Password: codingabel.com
+Staff Login Details
+Email	: lot@mail.com
+Password: codingabel.com
+
+
