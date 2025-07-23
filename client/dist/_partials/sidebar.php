@@ -142,6 +142,12 @@
                   </a>
                 </li>
                  <li class="nav-item">
+                  <a href="mpesa.php" class="nav-link">
+                    <i class="fas fa-random nav-icon"></i>
+                    <p>Make payments</p>
+                  </a>
+                </li>
+                 <li class="nav-item">
                   <a href="default.php" class="nav-link">
                     <i class="fas fa-random nav-icon"></i>
                     <p>Defaults</p>
